@@ -1,0 +1,4 @@
+Model,Accuracy (%),Precision (scam),Recall (scam),F1-score (scam)
+Multinomial Naive Bayes,96.12,1.0,0.7237,0.8397
+Logistic Regression,98.43,0.9355,0.9539,0.9446
+Linear SVM,99.17,0.9735,0.9671,0.9703

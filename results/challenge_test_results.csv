@@ -1,0 +1,17 @@
+message,label,predicted_label,correct
+My teacher explained OTP security in today's lecture.,normal,normal,True
+Your account is safe. Never share your password with anyone.,normal,normal,True
+I received my bank salary notification this morning.,normal,normal,True
+The university portal asked me to verify my student email.,normal,normal,True
+Main ne bank ki transaction history check ki.,normal,normal,True
+Teacher ne online fraud par assignment diya hai.,normal,normal,True
+My parcel arrived today and I paid the delivery charges.,normal,normal,True
+I forgot my university account password and contacted IT support.,normal,normal,True
+Send your private code now or your account access will end.,scam,scam,True
+Apna OTP bhejein warna aapka account band ho jayega.,scam,scam,True
+Your cash reward is waiting. Pay a small fee to receive it.,scam,scam,True
+Prize claim karne ke liye abhi registration fee jama karein.,scam,scam,True
+Your wallet has a security issue. Share your PIN immediately.,scam,scam,True
+Aapka parcel rok diya gaya hai. Release ke liye foran payment karein.,scam,scam,True
+Deposit money today and receive guaranteed investment profits.,scam,scam,True
+Bank verification ke liye apna password aur security code bhejein.,scam,scam,True

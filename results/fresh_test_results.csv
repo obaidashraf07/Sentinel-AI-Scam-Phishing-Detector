@@ -1,0 +1,21 @@
+label,message,predicted_label,correct
+scam,Your mobile wallet will be suspended today. Confirm your PIN using this message.,scam,True
+scam,You have been selected for a cash reward. Pay the processing fee to receive it.,scam,True
+scam,A delivery charge is pending. Transfer the fee to release your parcel.,scam,True
+scam,Your account access expires tonight. Send your verification code to restore it.,scam,True
+scam,Limited time investment offer guarantees profit. Deposit money to activate your plan.,scam,True
+scam,Apka wallet band ho jayega. Abhi apna OTP aur PIN bhejein.,scam,True
+scam,Prize hasil karne ke liye pehle registration fee transfer karein.,scam,True
+scam,Aapka parcel roka gaya hai. Release ke liye payment karein.,scam,True
+scam,Bank verification ke naam par apna password aur code share karein.,scam,True
+scam,Aaj hi paisay double karne ke liye account mein deposit karein.,scam,True
+normal,I reviewed the mobile wallet transactions in my finance class.,normal,True
+normal,My cousin sent me a picture of the parcel after it arrived.,normal,True
+normal,We discussed investment risks during today's economics lecture.,normal,True
+normal,I changed my account profile settings this morning.,normal,True
+normal,The teacher explained how verification works in database systems.,normal,True
+normal,Main ne apni class ke notes mobile par save kiye.,normal,True
+normal,Mera parcel kal ghar par deliver hua tha.,normal,True
+normal,Aaj lecture mein online banking ke faide discuss huay.,normal,True
+normal,Main ne wallet ki transaction history check ki.,normal,True
+normal,Teacher ne investment par assignment diya hai.,normal,True

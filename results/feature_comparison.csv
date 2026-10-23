@@ -1,0 +1,4 @@
+Feature Configuration,Accuracy,Scam Precision,Scam Recall,Scam F1,Training Time (seconds)
+Word TF-IDF,0.9904,0.9627,0.9627,0.9627,0.455
+Character TF-IDF,0.9923,0.9846,0.9552,0.9697,2.049
+Word + Character TF-IDF,0.9943,0.9848,0.9701,0.9774,2.601

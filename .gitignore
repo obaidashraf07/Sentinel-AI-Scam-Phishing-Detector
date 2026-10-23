@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+app_backup*.py
+train_model_backup.py
+compare_models_backup.py
+explain_model_backup.py
+*_backup*
+
+.streamlit/secrets.toml
+

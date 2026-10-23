@@ -1,0 +1,45 @@
+label,message
+scam,Your mobile wallet is suspended. Verify your identity to restore access.
+scam,You have won a shopping voucher. Pay a delivery fee to receive it.
+scam,Your tax refund is ready. Submit your banking details to claim it.
+scam,Your package is held at customs. Pay the release charge immediately.
+scam,An unusual login was detected. Share your verification code to secure your account.
+scam,You are eligible for a guaranteed investment return. Transfer money to activate it.
+scam,Your subscription will expire. Enter your card details to avoid interruption.
+scam,You have been selected for a cash grant. Pay the application fee today.
+scam,"Apka mobile wallet band hone wala hai, foran tasdeeq karein."
+scam,"Aap inaam jeet gaye hain, inaam lene ke liye fees jama karwayein."
+scam,Parcel hasil karne ke liye delivery charges abhi bhejein.
+scam,Aapki raqam wapas lene ke liye bank ki maloomat bhejein.
+scam,Account bachane ke liye verification code share karein.
+scam,Rozana munafa hasil karne ke liye investment bhejein.
+scam,"Aapki scholarship manzoor hai, processing fee jama karein."
+scam,"Aapka account suspend ho jayega, password foran bhejein."
+scam,"Your wallet block ho gaya hai, restore karne ke liye OTP bhejein."
+scam,"Cash reward ready hai, claim karne ke liye processing fee pay karein."
+scam,"Your parcel customs mein hai, release fee abhi transfer karein."
+scam,Account secure karne ke liye login code share karein.
+scam,"Refund approve hai, bank details submit karein."
+scam,Free gift unlock karne ke liye payment send karein.
+normal,I checked my mobile wallet balance this morning.
+normal,The shop sent me a voucher after my purchase.
+normal,I submitted my tax documents to my accountant.
+normal,The courier delivered my package yesterday.
+normal,I received a login alert after signing into my account.
+normal,I am comparing investment options for my finance assignment.
+normal,My subscription renewed through the official application.
+normal,I am reading about government grants for a university project.
+normal,Maine apne mobile wallet ka balance check kiya.
+normal,Dukaan se khareedari ke baad voucher mila.
+normal,Maine tax ke documents accountant ko de diye.
+normal,Courier wala mera parcel ghar par de gaya.
+normal,Login karne ke baad account ka alert aya.
+normal,Main assignment ke liye investment par research kar raha hoon.
+normal,Meri subscription official app se renew ho gayi.
+normal,University project ke liye government grants parh raha hoon.
+normal,I checked my account aur balance theek tha.
+normal,Teacher ne assignment ke liye verification ka topic diya.
+normal,My parcel deliver ho gaya aur koi extra fee nahi thi.
+normal,I updated my password using the official banking app.
+normal,Mujhe salary ka payment confirmation mil gaya.
+normal,The bank sent my monthly statement by email.

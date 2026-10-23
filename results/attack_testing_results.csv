@@ -1,0 +1,41 @@
+Category,Message,Expected Label,Predicted Label,Result
+Standard English Scam,Congratulations! You have won a free prize. Claim now.,scam,scam,CORRECT
+Standard English Scam,Your bank account will be blocked. Verify your details immediately.,scam,scam,CORRECT
+Standard English Scam,Pay a registration fee to receive your online job offer.,scam,scam,CORRECT
+Standard English Scam,Send your OTP to claim your cash reward.,scam,scam,CORRECT
+Standard English Scam,You have been selected for a cash lottery. Pay the processing fee.,scam,scam,CORRECT
+Standard English Scam,Your account will be suspended unless you verify your details.,scam,scam,CORRECT
+Obfuscated Scam,U have w0n a fr33 pr1ze. Cl@im n0w.,scam,scam,CORRECT
+Obfuscated Scam,URG3NT! V3rify ur acc0unt n0w.,scam,scam,CORRECT
+Obfuscated Scam,Fr33 pr1ze j33t0 abhi cl@im karo.,scam,scam,CORRECT
+Obfuscated Scam,Cl@im ur rew@rd bef0re it expires.,scam,scam,CORRECT
+Obfuscated Scam,Y0ur acc0unt is l0cked. Send OTP n0w.,scam,scam,CORRECT
+Obfuscated Scam,W1n cash n0w by paying a small fee.,scam,scam,CORRECT
+Roman Urdu Scam,"Apka inaam nikla hai, abhi claim karein.",scam,scam,CORRECT
+Roman Urdu Scam,"Aapka parcel rok diya gaya hai, release fee bhejein.",scam,scam,CORRECT
+Roman Urdu Scam,"Scholarship approve hai, processing fee abhi jama karwayein.",scam,scam,CORRECT
+Roman Urdu Scam,Refund lene ke liye bank details aur OTP share karein.,scam,scam,CORRECT
+Roman Urdu Scam,Investment par double profit ke liye abhi paise transfer karein.,scam,scam,CORRECT
+Roman Urdu Scam,"Aapka account band ho jayega, foran verification karein.",scam,scam,CORRECT
+Mixed Language Scam,"Your account band ho jayega, verify now.",scam,scam,CORRECT
+Mixed Language Scam,Free prize claim karne ke liye payment bhejein.,scam,scam,CORRECT
+Mixed Language Scam,"Your refund ready hai, click the link and enter details.",scam,scam,CORRECT
+Mixed Language Scam,"Online job confirm hai, registration fee transfer karein.",scam,scam,CORRECT
+Mixed Language Scam,Bank verification ke liye apna OTP send karein.,scam,scam,CORRECT
+Mixed Language Scam,Congratulations! Aap cash reward jeet gaye hain.,scam,scam,CORRECT
+Account Security Scam,Your bank account is blocked. Send your OTP now.,scam,scam,CORRECT
+Account Security Scam,Your account will be closed today. Verify your password immediately.,scam,scam,CORRECT
+Account Security Scam,We detected suspicious activity. Share your login code to restore access.,scam,scam,CORRECT
+Account Security Scam,Your payment failed. Click the link to confirm your banking details.,scam,scam,CORRECT
+Normal Message,I paid my university fee through my bank account.,normal,normal,CORRECT
+Normal Message,Teacher shared the assignment link in our class group.,normal,normal,CORRECT
+Normal Message,I received a payment confirmation for my online order.,normal,normal,CORRECT
+Normal Message,Please verify the information in my university form.,normal,normal,CORRECT
+Normal Message,My parcel arrived and I paid the delivery fee.,normal,normal,CORRECT
+Normal Message,I changed my account password using the official website.,normal,normal,CORRECT
+Normal Message,Our teacher announced a prize for the best project.,normal,normal,CORRECT
+Normal Message,I will send the project details to you tomorrow.,normal,normal,CORRECT
+Normal Banking Message,I contacted my bank about my account.,normal,normal,CORRECT
+Normal Banking Message,My bank sent me a monthly account statement.,normal,normal,CORRECT
+Normal Banking Message,I changed my bank password through the official app.,normal,normal,CORRECT
+Normal Banking Message,I received my salary in my bank account today.,normal,normal,CORRECT
